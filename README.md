@@ -14,4 +14,4 @@ Up to the challenge?
 Let's build something great, together.
 
 
-This work is licenced under a [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication licence](https://creativecommons.org/publicdomain/zero/1.0/).
+This work is licensed under a [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license](https://creativecommons.org/publicdomain/zero/1.0/).
