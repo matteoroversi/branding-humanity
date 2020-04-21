@@ -11,4 +11,7 @@ Up to the challenge?
 3. Create your own applications of the logo;
 4. Fill out [this form](https://forms.gle/4LMoJiZscyNaTyQSA) to be featured in our online archive.
 
-This work is licenced under a [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+Let's build something great, together.
+
+
+This work is licenced under a [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication licence](https://creativecommons.org/publicdomain/zero/1.0/).
