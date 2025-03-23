@@ -8,10 +8,7 @@ Up to the challenge?
 
 1. Read the [manifesto](https://medium.com/redshirts/dear-humanity-after-coronavirus-you-seriously-need-a-brand-c061408797d2);
 2. Download the files from this repo;
-3. Create your own applications of the logo;
-4. Fill out [this form](https://forms.gle/4LMoJiZscyNaTyQSA) to be featured in our online archive.
-
-Let's build something great, together.
+3. Create your own applications of the logo.
 
 
 This work is licensed under a [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license](https://creativecommons.org/publicdomain/zero/1.0/).
